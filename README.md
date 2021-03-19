@@ -3,10 +3,15 @@
 4 ML algorithms used in the project were:
 
 Gradient Boosting Classifier
+
 Random Forest Classifier
+
 XGBClassifier
-Decision Tree Classifier	
-SVM Classifier	
+
+Decision Tree Classifier
+
+SVM Classifier
+
 Logistic Regression
 
 Here's the link to the dataset:
