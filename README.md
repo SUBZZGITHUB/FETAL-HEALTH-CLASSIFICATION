@@ -1,18 +1,18 @@
 # FETAL-HEALTH-CLASSIFICATION 
 
-4 ML algorithms used in the project were:
+ML algorithms used in the project were:
 
-Gradient Boosting Classifier
+  Gradient Boosting Classifier
 
-Random Forest Classifier
+  Random Forest Classifier
 
-XGBClassifier
+  XGBClassifier
 
-Decision Tree Classifier
+  Decision Tree Classifier
 
-SVM Classifier
+  SVM Classifier
 
-Logistic Regression
+  Logistic Regression
 
 Here's the link to the dataset:
 
